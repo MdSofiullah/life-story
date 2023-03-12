@@ -1,0 +1,6 @@
+p1={
+    
+    name : "Md sofiullah",
+    age : 23; 
+
+}
